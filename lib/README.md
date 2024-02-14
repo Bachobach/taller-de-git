@@ -1,4 +1,4 @@
 # Curso de GIT
 
 Este proyecto contiene el curso de introducción a GIT
-Desarrollado por Bachana1.
+Desarrollado por Bachana.
