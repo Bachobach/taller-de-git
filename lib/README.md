@@ -3,5 +3,5 @@
 Este proyecto contiene el curso de introducción a GIT
 Desarrollado por Bachana kharchilava.
 
-cambio desde github
+cambio desde local
 
