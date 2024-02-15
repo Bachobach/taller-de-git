@@ -1,3 +1,3 @@
 #AUTHORS
 
-Bachana <bach@gmail.com>
+Bachana kharchilava <bach@gmail.com>
